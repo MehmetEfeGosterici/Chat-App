@@ -1,7 +1,7 @@
 # Chat-App
 Basic chat app created with React and Firebase
 
-The application uses Firebase's authentication feature and Cloud Firestore and is at:
+The application uses Firebase's authentication feature and Cloud Firestore and is hosted at:
 
 https://chat-app-eeb2e.web.app/
 
